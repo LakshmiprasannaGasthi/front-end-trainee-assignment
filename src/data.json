@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "CSPM Executive Dashboard",
+    "widgets": [
+      { "id": 1, "title": "Widget One", "content": "This is widget one" },
+      { "id": 2, "title": "Widget Two", "content": "This is widget two" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Security Dashboard",
+    "widgets": [
+      { "id": 3, "title": "Widget Three", "content": "This is widget three" }
+    ]
+  }
+]
